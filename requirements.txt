@@ -1,0 +1,7 @@
+pyvisa
+pyserial
+Pyllow
+matplotlib
+tdqm
+scipy
+si-prefix

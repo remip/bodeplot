@@ -6,9 +6,9 @@ The script connects to the a Siglent osccilloscope and a JDS6600 via NI-VISA or 
 
 ![schematic](doc/schematic.jpg)
 
-Klone with tone at the minimum
+RC filter
 
-![min](doc/klonetonemin.png)
+![min](doc/rcfilter.png)
 
 
 Klone with tone at the maximum
